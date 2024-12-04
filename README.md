@@ -3,6 +3,7 @@ Auf kicker.de war letztens zu lesen, dass Opta die Ligaphase der UEFA Fußball C
 - 17 Punkte immer, um unter die ersten 8 der Liga zu gelangen.
 - 16 Punkte zu 98 %, um unter die ersten 8 der Liga zu gelangen.
 - 15 Punkte zu 73 %, um unter die ersten 8 der Liga zu gelangen.
+
 Außerdem reichten
 - 11 Punkte immer, um unter die ersten 24 der Liga zu gelangen.
 - 10 Punkte zu 99 %, um unter die ersten 24 der Liga zu gelangen.
