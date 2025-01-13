@@ -12,4 +12,8 @@ Außerdem reichten
 Anmerkung: Die ersten 8 Mannschaften kommen direkt ins Achtelfinale, die Mannschaften auf den Plätzen 9 bis 24 müssen sich über eine KO-Zwischenrunde fürs Achtelfinale qualifizieren. Die restlichen 12 Teams scheiden aus.
 
 # Ergebnis.py
-Mit diesem werden die Ergebnisse der CL-Gruppenphase der letzten 5 Jahre gesammelt und die jeweiligen Häufigkeiten der Ergebnisse erfasst. Basierend auf dieser Verteilung wird die Simulation durchgeführt.
+Mit diesem Code werden die Ergebnisse der CL-Gruppenphase der letzten 5 Jahre gesammelt und die jeweiligen Häufigkeiten der Ergebnisse erfasst. Basierend auf dieser Verteilung wird die Simulation durchgeführt.
+
+# Paarungen.py
+Mit diesem Code werden alle Paarungen der CL-Gruppenphase 2024/25 (nach neuem Modus) gesammelt. Für diese Paarungen wird die Simulation durchgeführt.
+
